@@ -1,0 +1,1 @@
+export ALGOLIA_API_KEY="de7881468b5272be8faec81d30a82f4f"
